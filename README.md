@@ -116,20 +116,8 @@ I'm passionate about building scalable data platforms, cloud architectures and m
 
 ```text
 .
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-├── css/
-├── js/
-├── pages/
-├── projects/
-│   ├── project-01/
-│   ├── project-02/
-│   └── ...
-├── components/
-├── index.html
-└── README.md
+└── index.html       # Site completo (HTML + CSS + JS inline)
+└── README.md        # Este arquivo
 ```
 
 ---
